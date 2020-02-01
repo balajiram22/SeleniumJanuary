@@ -20,7 +20,7 @@ public class CreateAccount {
 		 *  
 		 * 7. Enter AccountName Field Using Xpath Locator value as Debit Limited Account
 		 * 
-		 * 8. Click on the widget of Parent Account and select the first Residing account
+		 * 8. Enter text as "Selenium Automation Testing at TesLeaf" in Description field
 		 * 
 		 * 9. Enter LocalName Field Using Xpath Locator
 		 * 
